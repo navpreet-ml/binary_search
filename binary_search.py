@@ -1,5 +1,5 @@
 #Assumes array is sorted. Alo takes O(log(n))
- 
+#change for github tutorial
 def binary_search(array, value):
     low = 0
     high = len(array) - 1
